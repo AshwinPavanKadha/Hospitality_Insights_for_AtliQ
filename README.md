@@ -85,13 +85,7 @@ On Observing RevPAR, ADR, Occupancy. It is evident that Revenue and occupancy ha
 ➢ This shows that, They are following flat pricing strategy and selling rooms at constant Price on weekdays and weekends
 ➢ They can also work on Dynamic pricing strategy based on peak days and Occupancy(%), Competitor Pricing etc.
 
-![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/0dcab546-77e6-4049-b19a-d5d8cd8f06c8)
-
-
-
-
-
-
+![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/30e7138e-e2dd-461a-8ecd-ff393af25fae)
 
 
 
