@@ -9,7 +9,7 @@ Live Dashboard Link :- http://surl.li/qzmau
 
 Power point Link :- http://surl.li/qzmcj
 
-Video Presentaion :- https://drive.google.com/file/d/1pbuOC_kbVmTogBejH3i7YN0KwlxQ1UkI/view?usp=sharing
+Video Presentaion :- http://surl.li/qzyfm
 
 
 
