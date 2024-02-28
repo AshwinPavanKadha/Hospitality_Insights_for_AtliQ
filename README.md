@@ -19,7 +19,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 - **Importance of analyzing Hospitality data:** Conducst Root cause analysis (RCA) and idetify Least performing Hotels, ⬇️ avg. ratings and possible reasons by tracking key performance indicators (KPIs).
 
-- **Role of Dashboard:** To effectively Visualize live performance of various KPIs like Occupancy, Avg. rating, DSRN determine efective ways to improve consumers' satisfaction, and identify potential business expansion opportunities in promising cities.
+- **Role of Dashboard:** To effectively Visualize live performance of various KPIs like Occupancy, Avg. rating, DSRN determine efective ways to improve costomers' satisfaction, and identify potential business expansion opportunities in promising cities.
 
 **Data collection , cleaning and Modelling**
 
@@ -79,7 +79,7 @@ This hotel need to focus on rating first, and the possible reasons could be :
 ➢ Basically they are facing challenges with their overall service
 
 
-Possible approach to effectively operate could be:
+An efficinet way for addressing :
 
 ➢ Online content on multiple channel websites should be fair and up to date
 ➢ Customers satisfaction plays key role in cancellation, Hotel should meet expectations of customers and maintain amenities according to promise while booking
