@@ -97,7 +97,7 @@ On Observing RevPAR, ADR, Occupancy. It is evident that Revenue and occupancy ha
 
 
 ## Technical & Soft Skills:
-- [x]	Mastering the Basics like cell formats, started with basic formulas like IF, SUMIF, COUNT, LOOKUPS (VLOOKUP, HLOOKUP, XLOOKUP) , INDEX & MATCH
+- [x]	Mastering the Basics like cell formats, conditinal formatting to building appealing dashboards
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load) from various sources.
 - [x]	Mastered the Skills to generate a date table, clean data and transform data using Power Query.
 - [x]	Slicing & summarizing the data using Pivot table based on stake holder goal
@@ -105,10 +105,10 @@ On Observing RevPAR, ADR, Occupancy. It is evident that Revenue and occupancy ha
 - [x]	Establishing data model relationships with Power Pivot ⚡ and Data Modelling , Relations.
 - [x]	Utilizing DAX to create calculated columns and measures like SUM,SUMX, CALCULATE.
 - [x]	Created appealing visuals 📊 using the features of diverse charts and formatted them to make presentable.
-- [x]	Derived insights 🔎 focused on stake holder goals which significantly helps in decision making 📉 for Marketing and Finance teams at AtliQ Hardware 
+- [x]	Derived insights 🔎 focused on stake holder goals which significantly helps in decision making 📉 for Revenue teams at AtliQ Hotels 
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports and importance of data informed decision making
+- [x]	Refined understanding of practices in Hospitality domain importance of data informed decision making
 - [x]	Gained the knowledge about the factors involved in decision making 
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
