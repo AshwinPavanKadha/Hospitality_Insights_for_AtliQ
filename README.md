@@ -56,7 +56,7 @@ Using DAX queries I have comprehensively Built views for most important metrics 
 - Cancellation % --> Total cancelled bookings to Total bookings
 - No Show rate % --> Total No show bookings to total bookings
 
-- Realisation (%)--> calculate the realisation percentage. It is nothing but the successful "checked out" percentage over all bookings happened.
+- Realisation %--> calculate the realisation percentage. It is nothing but the successful "checked out" percentage over all bookings happened.
 
 - RevPAR--> Calculate the RevPAR (Revenue Per Available Room)It represents the revenue generated per available room, whether or not they are occupied and helps hotels measure their revenue generating performance to accurately price rooms. It  can also help hotels to measure against brands.
 
