@@ -105,10 +105,6 @@ On Observing RevPAR, ADR, Occupancy. It is evident that Revenue and occupancy ha
 
 ➢ They can also work on Dynamic pricing strategy based on peak days and Occupancy(%), Competitor Pricing etc.
 
-![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/30e7138e-e2dd-461a-8ecd-ff393af25fae)
-
-
-
 
 ## Technical & Soft Skills:
 - [x]	Mastering the Basics like cell formats, conditinal formatting to building appealing dashboards
@@ -127,3 +123,5 @@ On Observing RevPAR, ADR, Occupancy. It is evident that Revenue and occupancy ha
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/30e7138e-e2dd-461a-8ecd-ff393af25fae)
