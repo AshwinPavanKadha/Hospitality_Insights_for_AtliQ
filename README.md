@@ -1,4 +1,6 @@
-![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/45d15920-ec1c-4820-ae2e-ae9033dacc03)# Hospitality_Insights_for_AtliQ
+![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/45d15920-ec1c-4820-ae2e-ae9033dacc03)
+
+# Hospitality_Insights_for_AtliQ
 # PowerBi-Hospitality-Analytics
 A detailed project to find Revenue Insights from scratch for ehancing performance of Atliq Chain of Hotels using Power Bi and empower stake holders to have clear understanding about critical issues and possible opportunites to resolve them. To create targets for Monthly, weekly through market analysis and stratagize their assets accordingly.
 
