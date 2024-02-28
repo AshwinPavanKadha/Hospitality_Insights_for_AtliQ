@@ -46,7 +46,9 @@ It enables us to deep dive into the Key Performance indicators of the business. 
 Using DAX queries I have comprehensively Built views for most important metrics in Hospitality domain like Revenue, RevPar, ADR, DSRN , Occupancy (%), Realisation (%), Average Ratings
 
 - Revenue--> To get the total revenue realised
+  
 - Average Rating--> Get the average ratings given by the customers
+  
 - Occupancy (%)--> Occupancy means total successful bookings happened to the total rooms available
 
 - Booking % by Room class--> To show the percentage contribution of each room class over total rooms booked. We have room classes like Standard, Elite, Premium, Presidential.
@@ -54,6 +56,7 @@ Using DAX queries I have comprehensively Built views for most important metrics 
 - Booking % by Platform--> To show the percentage contribution of each booking platform for bookings in hotels. We have booking platforms like makeyourtrip, logtrip, tripster etc)
 
 - Cancellation % --> Total cancelled bookings to Total bookings
+  
 - No Show rate % --> Total No show bookings to total bookings
 
 - Realisation %--> calculate the realisation percentage. It is nothing but the successful "checked out" percentage over all bookings happened.
@@ -76,12 +79,14 @@ By level 1 , we can have clear understanding that specific hotel has a least Occ
 This hotel need to focus on rating first, and the possible reasons could be : 
 
 ➢ They are not focusing at online reviews and improving themselves in service on specific topics mentioned in reviews
+
 ➢ Basically they are facing challenges with their overall service
 
 
 An efficinet way for addressing :
 
 ➢ Online content on multiple channel websites should be fair and up to date
+
 ➢ Customers satisfaction plays key role in cancellation, Hotel should meet expectations of customers and maintain amenities according to promise while booking
 
 The above approach could be applicable for other properties as well. Since, they follow same trends
@@ -89,6 +94,7 @@ The above approach could be applicable for other properties as well. Since, they
 On Observing RevPAR, ADR, Occupancy. It is evident that Revenue and occupancy has a jump in weekends and a drop in weekdays. However, ADR is a flat line throughout all months
 
 ➢ This shows that, They are following flat pricing strategy and selling rooms at constant Price on weekdays and weekends
+
 ➢ They can also work on Dynamic pricing strategy based on peak days and Occupancy(%), Competitor Pricing etc.
 
 ![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/30e7138e-e2dd-461a-8ecd-ff393af25fae)
