@@ -22,6 +22,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 - **Role of Dashboard:** To effectively Visualize live performance of various KPIs like Occupancy, Avg. rating, DSRN determine efective ways to improve consumers' satisfaction, and identify potential business expansion opportunities in promising cities.
 
 **Data collection , cleaning and Modelling**
+
 General Practices in Hospitality industry:
 - Weekends: Fridays and Saturdays
 - On Weekends, There will be a high demand for Leisure and vacations category Hotles 
