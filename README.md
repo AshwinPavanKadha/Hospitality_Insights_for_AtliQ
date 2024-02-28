@@ -1,4 +1,5 @@
-![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/45d15920-ec1c-4820-ae2e-ae9033dacc03)
+![image](https://github.com/AshwinPavanKadha/Hospitality_Insights_for_AtliQ/assets/131484545/4bd9943a-7ced-45c2-8d37-3c4321207acf)
+
 
 # Hospitality_Insights_for_AtliQ
 # PowerBi-Hospitality-Analytics
