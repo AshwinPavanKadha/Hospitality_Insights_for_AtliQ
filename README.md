@@ -72,14 +72,19 @@ Using DAX queries I have comprehensively Built views for most important metrics 
 **Level  2 Analysis:**
 
 By level 1 , we can have clear understanding that specific hotel has a least Occupancy of 44.3 %. Conversely, that same hotel has lesser avg rating of  2.37
+
 This hotel need to focus on rating first, and the possible reasons could be : 
+
 ➢ They are not focusing at online reviews and improving themselves in service on specific topics mentioned in reviews
 ➢ Basically they are facing challenges with their overall service
 
+
 Possible approach to effectively operate could be:
+
 ➢ Online content on multiple channel websites should be fair and up to date
 ➢ Customers satisfaction plays key role in cancellation, Hotel should meet expectations of customers and maintain amenities according to promise while booking
-Other hotels which follow the same trend and can be handled with above approach
+
+The above approach could be applicable for other properties as well. Since, they follow same trends
 
 On Observing RevPAR, ADR, Occupancy. It is evident that Revenue and occupancy has a jump in weekends and a drop in weekdays. However, ADR is a flat line throughout all months
 
